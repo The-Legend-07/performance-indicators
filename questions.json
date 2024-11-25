@@ -35,7 +35,6 @@
   "Account for sales (e.g., invoices, sales slips, etc.) ": {
     "Answer:": "Sales can be accounted for by listing the total monetary amount earned, assigning invoice numbers, and including payment terms with specific dates."
   },
-  "Account for taxes": {},
   "Acquire knowledge of client's products/brands": {
     "Answer:": "Consider the product or brand information of each client's product or brand. Consider customer testimonial in order to determine public perception of the good/service being offered. Determine the cost, demand, need, etc."
   },
@@ -84,7 +83,6 @@
   "Adhere to company protocols and policies": {
     "Answer:": "It is important for everyone in a company to follow appropriate company protocols and policies. This ensures employees are compliant with all rules and regulations. This could be maintained with up-to-date training procedures and communication platforms."
   },
-  "Adhere to data change best practices": {},
   "Adhere to laws pertaining to computer crime, fraud, and abuse": {
     "Answer:": "There exist many laws regarding cybersecurity and consumer safety, which includes the security of consumer data in databases, the avoidance of abuse of power for those who have access to sensitive information, etc. These laws must be properly adhered to at all times."
   },
@@ -250,7 +248,6 @@
   "Apply mathematical data analysis modeling techniques": {
     "Answer:": "Mathematical data analysis modeling techniques are used to analyze data and make predictions or decisions based on the patterns and trends identified in the data. Here are a few key steps to apply these techniques:\n\nDefine the problem or opportunity: The first step in applying mathematical data analysis modeling techniques is to define the problem or opportunity that you are trying to address. This might involve identifying a specific business challenge, such as forecasting demand for a product or optimizing a marketing campaign.\n\nCollect data: The next step is to collect data that will be relevant to addressing the problem or opportunity. This might involve gathering data from a variety of sources, such as customer surveys, sales data, or market research.\n\nClean and prepare the data: Before you can analyze the data, you will need to clean and prepare it for analysis. This might involve removing missing or incorrect data, formatting the data consistently, and ensuring that the data is organized in a way that is suitable for analysis.\n\nChoose a mathematical model: Once you have prepared the data, you will need to choose a mathematical model that is appropriate for your problem or opportunity. This might involve selecting a model based on the type of data you have, the nature of the problem you are trying to solve, or the level of complexity you are comfortable with.\n\nAnalyze the data: Using the chosen mathematical model, you will need to analyze the data to identify patterns and trends and make predictions or decisions based on the results. This might involve using tools such as spreadsheets or specialized software to visualize and analyze the data.\n\nOverall, applying mathematical data analysis modeling techniques involves collecting and preparing data, selecting a suitable mathematical model, and analyzing the data to make predictions or decisions based on the results."
   },
-  "apply mathematical modeling techniques": {},
   "Apply methods to treat missing data": {
     "Answer:": "Missing data can occur for a variety of reasons and can be a challenge when analyzing data sets. Here are a few methods that can be used to treat missing data:\n\nDelete rows with missing data: One approach to treating missing data is to simply delete rows or observations that contain missing values. This is often referred to as \"listwise deletion\" and can be a simple way to handle missing data, but it can also lead to a loss of valuable information if a significant portion of the data is missing.\n\nImpute missing values: Another approach is to impute, or estimate, the missing values using some form of statistical analysis. This might involve using mean imputation, which replaces missing values with the mean of the observed values, or more advanced techniques such as multiple imputation, which uses multiple estimates of the missing values and combines them in a statistically rigorous way.\n\nUse machine learning algorithms: Machine learning algorithms can also be used to predict missing values based on the patterns and trends in the data. This can be a powerful approach, but it requires a more advanced level of data analysis expertise and is typically more time-consuming.\n\nOverall, the appropriate method for treating missing data will depend on the specific context and the goals of the data analysis. It is often a good idea to try multiple approaches and compare the results to determine the best approach for a given data set."
   },
@@ -281,14 +278,12 @@
   "Arrange pension/retirement benefits for employees": {
     "Answer:": "Arranging pension/retirement benefits for employees involves setting up and managing retirement savings plans or other benefits that can help employees prepare for their financial future. Here are a few key steps to arrange pension/retirement benefits for employees:\n\nDetermine the types of benefits needed: The first step in arranging pension/retirement benefits is to determine the types of benefits that are needed. This might involve considering the age and income level of the employees, the company's budget for benefits, and any legal requirements or regulations that apply.\n\nResearch benefit options: After determining the types of benefits needed, you will need to research the options that are available. This might involve consulting with financial advisors, reviewing industry benchmarks, or comparing plans from multiple providers.\n\nChoose a benefit plan: After researching the available options, you will need to choose a benefit plan that is appropriate for the employees and the company. This might involve considering factors such as the cost of the plan, the level of contributions required, and the level of flexibility and customization offered.\n\nCommunicate the benefits to employees: After choosing a benefit plan, you will need to communicate the details of the plan to the employees. This might involve holding informational meetings or providing written materials that outline the benefits and how they can be accessed.\n\nAdminister the benefits: After communicating the benefits to the employees, you will need to administer the benefits by enrolling employees in the plan, tracking contributions and vesting, and handling any claims or requests for information.\n\nOverall, arranging pension/retirement benefits for employees involves determining the types of benefits needed, researching benefit options, choosing a benefit plan, communicating the benefits to employees, and administering the benefits."
   },
-  "Arrange transportation": {},
   "Ascertain employee's role in achieving governance objectives": {
     "Answer:": "Ascertaining an employee's role in achieving governance objectives involves understanding the specific responsibilities and contributions that an employee is expected to make towards the achievement of governance goals and objectives. Here are a few key steps to ascertain an employee's role in achieving governance objectives:\n\nReview the governance objectives: The first step in ascertaining an employee's role in achieving governance objectives is to review the governance objectives that have been established for the organization. This will help you understand the overall goals and priorities that the organization is working towards.\n\nReview the employee's job description: After reviewing the governance objectives, you will need to review the employee's job description to understand their specific responsibilities and duties. This will help you identify how the employee's role fits into the broader governance objectives of the organization.\n\nIdentify the employee's contributions to governance objectives: Once you have reviewed the governance objectives and the employee's job description, you will need to identify the specific contributions that the employee is expected to make towards the achievement of the governance objectives. This might involve identifying specific tasks or responsibilities that the employee is responsible for, or identifying the impact that the employee's work has on the achievement of the governance objectives.\n\nCommunicate the employee's role in achieving governance objectives: After identifying the employee's contributions to governance objectives, it is important to communicate this to the employee so that they understand how their work fits into the broader goals of the organization. This might involve providing feedback or setting specific goals or objectives related to the governance objectives.\n\nOverall, ascertaining an employee's role in achieving governance objectives involves reviewing the governance objectives, reviewing the employee's job description, identifying the employee's contributions to governance objectives, and communicating this to the employee."
   },
   "Ascertain employee's role in meeting organizational goals": {
     "Answer:": "Ascertaining an employee's role in meeting organizational goals involves understanding the specific responsibilities and contributions that an employee is expected to make towards the achievement of the organization's goals. Here are a few key steps to ascertain an employee's role in meeting organizational goals:\n\nReview the organizational goals: The first step in ascertaining an employee's role in meeting organizational goals is to review the goals that have been established for the organization. This will help you understand the overall priorities and objectives that the organization is working towards.\n\nReview the employee's job description: After reviewing the organizational goals, you will need to review the employee's job description to understand their specific responsibilities and duties. This will help you identify how the employee's role fits into the broader goals of the organization.\n\nIdentify the employee's contributions to organizational goals: Once you have reviewed the organizational goals and the employee's job description, you will need to identify the specific contributions that the employee is expected to make towards the achievement of the organizational goals. This might involve identifying specific tasks or responsibilities that the employee is responsible for, or identifying the impact that the employee's work has on the achievement of the organizational goals.\n\nCommunicate the employee's role in meeting organizational goals: After identifying the employee's contributions to organizational goals, it is important to communicate this to the employee so that they understand how their work fits into the broader goals of the organization. This might involve providing feedback or setting specific goals or objectives related to the organizational goals.\n\nOverall, ascertaining an employee's role in meeting organizational goals involves reviewing the organizational goals, reviewing the employee's job description, identifying the employee's contributions to organizational goals, and communicating this to the employee."
   },
-  "Ask relevant questions.": {},
   "Assess appropriateness of marketing research for the problem/issue (e.g., research methods, sources of information, timeliness of information, etc.)": {
     "Answer:": "Participants should make the connection between business records and business decisions based on those records.  Points to address this may include:\n• Inaccurate records could lead to an under or over projection of the business’s financial position in its financial statements.\n• Since these statements are used to make business decisions by management and investors, it can lead to misinformed business decisions as well as billing and delivery errors.\n• Business records are also used as reference points if and when the company is audited, thus these records must be accurate and maintain for future use."
   },
@@ -1216,7 +1211,6 @@
   "Describe factors impacting demand": {
     "Answer:": "Price: The price of a product or service is often a key factor in determining demand. As the price increases, demand may decrease, and as the price decreases, demand may increase.\n\nConsumer income: Consumer income can impact demand, as individuals may be more or less able to afford a product or service based on their income level.\n\nConsumer tastes and preferences: Consumer tastes and preferences can impact demand, as consumers may be more or less interested in a product or service based on their personal preferences.\n\nAvailability of substitutes: The availability of substitutes, or alternative products or services that fulfill a similar need, can affect demand. If there are many substitutes available, demand for a particular product or service may be lower.\n\nAdvertising and marketing: Advertising and marketing efforts can impact demand by increasing awareness and interest in a product or service.\n\nEconomic conditions: Economic conditions, such as the overall state of the economy and unemployment rates, can impact demand. During economic downturns, demand for some products and services may decrease."
   },
-  "Describe factors influencing customer willingness to travel to a destination": {},
   "Describe factors influencing make-or-buy decisions": {
     "Answer:": "Make-or-buy decisions refer to the decision of whether a company should produce a product or service in-house or purchase it from an external supplier. Some factors that may influence make-or-buy decisions include:\n\nCost: The cost of producing a product or service in-house, compared to the cost of purchasing it from an external supplier, is often a key factor in make-or-buy decisions.\n\nQuality: The quality of the product or service, and whether it meets the company's standards and requirements, can influence the make-or-buy decision.\n\nCapacity: The company's capacity to produce the product or service in-house, including the availability of resources such as skilled labor and equipment, can impact the make-or-buy decision.\n\nLead time: The amount of time it takes to produce the product or service in-house, compared to the lead time for purchasing it from an external supplier, can influence the make-or-buy decision.\n\nExpertise: The company's expertise in producing the product or service, and whether it has the necessary knowledge and skills in-house, can impact the make-or-buy decision."
   },
@@ -1910,16 +1904,12 @@
   "Describe word-of-mouth channels used to communicate with targeted audiences": {
     "Answer:": "• Word of mouth advertising (WOM) is the unpaid spread of a positive marketing message from person to person. It can take \nplace directly using the human voice, or can be transmitted via any communicative means such as through e-mail, social \nnetworking sites, blogs, review/referral channels, or text messages.\n\n• Marketers have long used \"word of mouth\" (WOM) promotion campaigns. The idea is to get people to pass information \nabout a product to other people. The idea in these kinds of WOM campaigns is to reach segments of consumers who distrust \npaid advertising by creating the illusion that the message comes from someone who is like the message recipient.\n\n• Social networking has enabled marketers to make practical use of “viral marketing,” “buzz marketing,” “guerilla \nmarketing,” and other forms of \"word of mouth\" marketing that rely on social networking.  The general idea of viral \nmarketing is to \"let the behaviours of the target community carry the message.\""
   },
-  "Design a database to meet business requirements": {},
-  "Design a learning module": {},
-  "Design event-related materials": {},
   "Determine accessibility needs": {
     "Answer:": "Accounting for accessibility needs involves ensuring a clear, simple design that supports those who need additional help. Examples including maintaining a simple design, ensuring that assistive technologies are compatible, including screen readers that read aloud content, and including screen magnifiers."
   },
   "Determine advertising reach of media": {
     "Answer:": "The basic formula: reach = impressions/frequency"
   },
-  "Determine cleaning requirements": {},
   "Determine client’s tourism motives for use in offering recommendations": {
     "Answer:": "Motives include the need/desire for an escape, relaxation, health, interpersonal relations, self-discovery, business purposes, and showing one's status/prestige."
   },
@@ -2598,12 +2588,6 @@
   "Discuss types of table service": {
     "Answer:": "Table service refers to the way in which food and drinks are served to customers at a restaurant or other food service establishment. There are several types of table service, including:\n\n1. French service: This is a formal type of table service in which dishes are prepared in the kitchen and then brought to the table, where they are plated and served by a server.\n\n2. Russian service: A formal service style where dishes are prepared in a side-table and then presented to guests.\n\n3. American service: This is also known as \"family style\" service, in which dishes are placed on the table and shared among the guests.\n\n4. Buffet service: This type of service involves customers serving themselves from a buffet table.\n\n5. English service: This is a formal service style where dishes are prepared in the kitchen and then presented to guests.\n\n6. Plated service: This is a service style where individual portions are plated in the kitchen and then presented to each guest.\n\n7. Tray service: this is when the food and drinks are served on trays to customers, which is commonly used in a cafeteria, or a quick-service setting.\n\nThe type of table service a restaurant or establishment chooses to use can depend on various factors such as the concept of the restaurant, the type of cuisine offered and the target market."
   },
-  "Dismantle/Store displays/display fixtures/forms": {},
-  "Dismiss/Fire employees": {},
-  "Display data in charts/graphs or in tables": {},
-  "Display hospitality and tourism data in charts/graphs or in tables": {},
-  "Dispose of food and food by-products": {},
-  "Disseminate event materials": {},
   "Distinguish among cleaning, sterilizing, and sanitizing": {
     "Answer:": "Cleaning, sterilizing, and sanitizing are all important processes used to maintain a clean and safe environment, but they have different purposes and methods of application.\n\nCleaning is the process of removing visible dirt, grime, and other contaminants from surfaces or objects. Cleaning can be done using soap, water, and other cleaning agents.\n\nSanitizing is the process of reducing the number of microorganisms on a surface or object to a safe level. Sanitizing can be done using chemicals such as chlorine or hydrogen peroxide, or through methods such as heat or ultraviolet light.\n\nSterilizing is the process of eliminating all forms of microbial life, including bacteria, viruses, and spores. Sterilization is typically accomplished through the use of chemicals, radiation, heat, or filtration. Sterilization is a more severe process than sanitizing and is often used in medical and laboratory settings.\n\nCleaning and sanitizing are usually the daily routine tasks, while sterilizing is often applied in specific situations such as surgical instruments, laboratory and scientific equipment, or other critical-use items. Additionally, the level of cleanliness and the level of sterilization required may vary depending on the context, such as in food service, health care, or laboratory settings."
   },
@@ -2664,8 +2648,6 @@
   "Edit and revise written work consistent with professional standards": {
     "Answer:": "Editing and revising written work consistent with professional standards involves several steps. \n\nFirstly, it's important to review the content of the written work, ensuring that it is clear, accurate and that it addresses the intended purpose. Secondly, it's important to check for grammar, punctuation, and spelling errors, ensuring that the language is clear, concise, and professional.\n\nNext, it's important to check for consistency in formatting, style, and citation. This includes, using the same font, font size, and spacing, using consistent terminology and following a specific citation style. It's also important to review for logical flow, coherence and continuity, making sure that the ideas and arguments are presented in a clear, logical and coherent manner.\n\nFinally, it's important to have a fresh set of eyes to review the work; a colleague, friend, or a professional editor to give feedback and make suggestions for improvement. It's important to note that editing and revising are an ongoing process and should be done multiple times before finalizing the written work."
   },
-  "Edit documents": {},
-  "Edit/clean research data": {},
   "Employ career-advancement strategies in event planning and management": {
     "Answer:": "Employing career-advancement strategies in event planning and management involves setting clear career goals and creating a plan to achieve them. Some strategies that can be employed include:\n\n1. Building a strong network of contacts in the industry, through attending networking events, joining professional organizations, and maintaining relationships with colleagues and clients.\n2. Gaining additional education and certifications, such as obtaining a certification in event planning or management, to increase skills and knowledge in the field.\n3. Seeking out opportunities for professional development, such as attending conferences and workshops, to stay current with industry trends and best practices.\n4. Volunteering for leadership roles within professional organizations, to gain experience and visibility within the industry.\n5. Constantly seeking out new and challenging projects to increase experience and skills, and taking on additional responsibilities within current roles.\n6. Building a portfolio of successful events, to demonstrate experience and capabilities to potential employers.\n\nIn summary, career-advancement strategies in event planning and management involve setting clear goals, building a strong network, gaining education and certifications, seeking professional development opportunities, volunteering for leadership roles, taking on challenging projects and building a portfolio."
   },
@@ -2690,7 +2672,6 @@
   "Enter product descriptions into a PoS system": {
     "Answer:": "Entering product descriptions into a Point of Sale (PoS) system involves several steps. Firstly, it's important to gather all the necessary information about the product, such as the product name, description, price, and SKU (stock keeping unit) number.\n\nOnce the information is gathered, it can be entered into the PoS system by accessing the product database or product management section of the system. The product information should be entered into the appropriate fields, such as product name, description, price, and SKU.\n\nIt's also important to add any relevant images or multimedia files to the product description, to make it more appealing to customers.\n\nOnce the product information is entered, it should be reviewed and checked for accuracy, and any necessary corrections should be made. Once the product is added and reviewed, it can be made available for sale."
   },
-  "Entertain customers at the office": {},
   "Establish credibility with Internet users": {
     "Answer:": "Establishing credibility with Internet users involves building trust and confidence in the information and services provided. Some ways to establish credibility include:\n\n1. Providing accurate and reliable information: Ensuring that the information provided is accurate, up-to-date, and supported by credible sources.\n2. Being transparent: Clearly disclosing any potential conflicts of interest and providing contact information for follow-up questions.\n3. Maintaining a professional appearance: Having a well-designed website, and ensuring that the content is free of errors and easy to navigate.\n4. Building a positive reputation: Building a positive reputation through customer testimonials, industry awards, and media mentions.\n5. Maintaining a strong online presence: Regularly updating social media profiles and engaging with the online community.\n6. Complying with legal and ethical standards: Following all relevant laws and regulations and adhering to industry standards and best practices."
   },
@@ -2712,7 +2693,6 @@
   "Establish processes for timely reporting of required information": {
     "Answer:": "Establishing processes for timely reporting of required information involves creating a set of procedures and protocols to ensure that important information is collected, analyzed and reported in a timely manner.\n\nSome steps to establish processes include:\n1. Identifying the required information: Identifying the type of information that needs to be reported and the frequency of the reporting.\n2. Developing data collection methods: Developing methods to collect the required information, such as surveys, interviews, and monitoring systems.\n3. Establishing a reporting schedule: Establishing a schedule for collecting, analyzing and reporting the information.\n4. Communicating the process: Communicating the process and schedule to all relevant parties, such as employees, managers, and stakeholders.\n5. Implementing reporting tools: Implementing tools such as spreadsheets, databases or specialized software, to help organize and analyze the data.\n6. Reviewing and updating: Reviewing and updating the process regularly to ensure that it remains efficient and effective."
   },
-  "Establish relationship with customer/client": {},
   "Establish relationship with hospitality and tourism customer/guest.": {
     "Answer:": "Building and maintaining strong guest relationships is essential to a modern hotel’s success, especially for independent hotels without access to constant technology upgrades and endless marketing budgets.\nA recent report from the American Customer Satisfaction Index Travel Report indicates that, while guests love hotel websites, there’s much less love for hotel loyalty programmes. At a time when such a strong book direct movement is taking shape, low satisfaction with loyalty programmes should ring some alarms.\n\nSo how can you make sure that your hotel, at least, has an all-star track record with building guest loyalty? Key themes are:\n· Building trust among first-time guests through your reviews and content\n· Developing your hotel’s USPs to keep those guests coming back\n· Using email to send them offers tailored to their interests and increase familiarity\n\n“The lack of differentiation among Internet travel companies means the real competition is with the websites of hotels and airlines,” says Claes Fornell, ACSI founder and Chairman. “Consumers like the convenience of one-stop shopping for their travel needs, but online booking sites reduce revenue for airlines and hotels by charging them commission. Airlines and hotels have tried to lessen the appeal of Internet travel sites by eliminating loyalty perks for those who book through a third party and by providing a better online experience on their own sites.”\n\nMany hoteliers collect and analyze data, but not everyone knows how to use their insights to set goals and objectives for their team. When it comes to your online reputation, knowing what to look at is the first step in making sure you’re putting your best foot forward online. Check out these KPIs to set realistic goals, involve all members of your team, and obtain a deeper understanding of how you’re performing in the eyes of your guests.\n\nContent marketing is more than a buzzword. It’s an important part of your hotel’s marketing strategy. Simply put, it’s the creation and distribution of valuable assets, such as videos, blog posts, and e-newsletters, as marketing tools to attract and retain customers. For hotels and other accommodation providers, these assets showcase your property’s unique story and brand. They attract your target guests, influence them to book a stay, and retain them as repeat guests.\n\nCreating emails that get responses is an incredibly valuable skill for marketers. Responses in the hotel email marketing world typically equate to directly attributable revenue – direct bookings, upgrades, amenity purchases, and more.\nThey can also drive engagement and develop a rapport with guests who have booked with you in the past, and make them more likely to book again in the future. But, what makes an email likely to get a response?\n\nA good book direct strategy is near the top of most hotelier’s list this year. Book direct campaigns from Marriott and Hilton are making headlines, and the focus of the industry as a whole is pivoting to look at booking direct as the way to grow profit margins. Competition in the hospitality industry is at an all-time high, and it is only going to get fiercer. If hotels want to outdo sharing sites like Airbnb and, more importantly (at least for now), their competitor sets, they need to be doing everything they can to optimise their online presence and drive direct bookings."
   },
@@ -3754,23 +3734,15 @@
   "Identify components of a retail image.": {
     "Answer:": "A retail image is how the retailer is defined in the customer’s mind based on both functional and psychological attributes. Shoppers should be able to determine the store’s name, line of business, price points, and personality very quickly. Components of a retail image are:\n• store location\n• layout and design\n• physical facilities\n• operations (store hours, etc.)\n• merchandising\n• pricing\n• customer service\n• community service\n• promotional methods"
   },
-  "Identify conditions affecting the rate of multiplication in bacteria.": {},
   "Identify consumer protection provisions of appropriate agencies.": {
     "Answer:": "• Federal Food, Drug, and Cosmetic Act\n• Fair Debt Collection Practices Act\n• Fair Credit Reporting Act\n• Truth in Lending Act\n• Fair Credit Billing Act"
   },
-  "Identify continuing education courses or program available to enhance business information management skills.": {},
-  "Identify continuing education courses or programs available to enhance human resources management skills.": {},
-  "Identify continuing education courses or programs available to enhance management skills.": {},
-  "Identify continuing education courses or programs available to enhance operations- and supply chain management skills.": {},
   "Identify costs associated with travel/tourism packages and events.": {
     "Answer:": "• Dining costs\n• Entertainment costs\n• Transportation costs\n• Room accomodation costs"
   },
   "Identify credit-card fraud prevention methods.": {
     "Answer:": "• Limit the number of cards carried on your person\n• Cover the keypad when entering a PIN\n• Keep your card secure in a safe place"
   },
-  "Identify critical control points.": {},
-  "Identify cuisines common to different regions.": {},
-  "Identify customer dynamics affecting food establishments.": {},
   "Identify customer touch points.": {
     "Answer:": "Customer touch points are your brand's points of customer contact, before the purchase, during the purchase and after the purchase. For example, customers may find your business online or in an ad, see ratings and reviews, visit your website, or hear about it from someone. During the purchase, a customer can be in contact with a number of sales clerks, the customer service desk, and the cashier. After the purchase, the customer may be emailed a survey, or given points or coupons to induce a future touch point. In simple terms, customer touch points are where a consumer interacts with your product/company/brand. Core examples of touch points include in-store, on the website, through social media platforms, customer review, online advertisements, email newsletters, etc."
   },
@@ -3780,22 +3752,18 @@
   "Identify data monitored for marketing decision making.": {
     "Answer:": "Determine the target and market segment for which a decision is being made. Identify infomation that is already on hand and information that needs to be collected. Information that needs to be collected should be further analyzed. Consider the following:\n• Who are the people currently seeking new homes? What are their economic situations, average income, family size, and desires in a new home?\n• What general economic factors are influencing home buying, housing bubbles, interest rates and trends?\n• Demographics (finite/definitive characteristics of a group of people in an area) - age, sex, race, etc.\n• Psychographics (general attitudes and interests of a given population in a given area) - lifestyle\n● Geographics - location, culture, etc."
   },
-  "Identify database trends.": {},
   "Identify desirable personality traits important to business.": {
     "Answer:": "A business person should be inquisitive, goal-oriented, independent, a risk-taker, and action-oriented. Characteristics of successful business people include:\n• Persistence\n• Creativity\n• Responsibility\n• Confidence\n• Enthusiasm\n• Independence\n\nStudents may cite the “7 habits of highly effective people” or they may simply discuss desirable traits such as: confidence, flexibility, motivation, enthusiasm, creativity, intelligence, emotional intelligence, etc."
   },
-  "Identify domestic cuisines.": {},
   "Identify effective advertising headlines.": {
     "Answer:": "Effective advertising headlines capture the reader's attention with larger text, contrasting colour schemes, and type styles such as bold, italics, and underline."
   },
-  "Identify effective menu descriptions.": {},
   "Identify effective promotional headlines.": {
     "Answer:": "Effective promotional headlines capture the reader's attention with larger text, contrasting colour schemes, and type styles such as bold, italics, and underline. They also employ the use of key words that explain the promtional offer in the most concise manner possible."
   },
   "Identify emerging compensation issues.": {
     "Answer:": "• External competitiveness - HR professionals strive to establish competitive pay rates so an organization can attract and retain the right talent, they compare their compensation rates to the rates in published surveys to gauge their competitiveness.\n• Internal equity - Legal considerations are also on the mind of HR professionals who manage compensation programs. In addition to being competitive with the external market, pay must be equitable internally within the organization. Companies generally want to reward high performers with more money and try to create pay differences between employees in the\nsame job to recognize outstanding performance. However, HR must be mindful that it's against the law to pay employees who perform the same work differently solely because, for example, the employee is female or over 40.\n• Recognizing and rewarding employees. HR professionals design programs to successfully motivate employees to perform at their best and that recognize and reward employees for their contributions in a way that's affordable to the company.\n\nHowever, ultimately, it's the supervisors and managers in a company who recognize and reward employees, and compensation staff must train and educate managers on how to use rewards and recognition to make employees feel appreciated by the company and happy in their job."
   },
-  "Identify emerging customer trends through social networking.": {},
   "Identify emerging trends.": {
     "Answer:": "If you get too comfortable and adapt to trends too late in the game, a competitor will beat you to the punch. Then, instead of staying ahead of those trends, you'll quickly try to play catch-up, which can cause even more problems in your execution. Accepting trends and change as facts of life and embracing them can help you avoid that.\nWhether you're ready for them or not, trends change industries every day. Knowing what's coming around the corner and evolving your company alongside those changes can keep you competitive.\n• Take advantage of industry research and trends reports.\n• Regularly follow publications and influencers in your industry.\n• Make it a point to surround yourself with smart people.\n• Build and maintain a close group of advisers.\n• Ask the right questions, and listen to your customers.\n• Don't be afraid to ask current customers what's on their radars and what they see as future needs in their areas. \n\nExamples of emerging trends in business include\n• Aging workforce\n• Task automation\n• E-commerce and virtual marketplaces\n• Rise of the data economy\n• Environmental and culturally conscious consumer market\n• Remote work\n• Augemented reality and virtual reality\n• Data mining, artificial intelligence, and machine learning"
   },
@@ -3841,7 +3809,6 @@
   "Identify factors that influence guest experiences throughout the guest life cycle": {
     "Answer:": "When the guest arrives, the front office staff will check them in and ensure they get to their room smoothly. If you're familiar\nwith the service blueprint, this is where so many of them focus because the arrival stage is both an easy time to delight a guest\nand an easy time to disappoint them. You can think of the guest life cycle as the four stages a guest goes through when lodging at a property – before they arrive in\nthe hotel, when they arrive, while they're staying, and after they've departed.\nComprehensively, the guest life cycle involves the following stages:\n· Research\n· Booking\n· Pre-stay\n· Arrival\n· Occupancy\n· Check-out\n· Post-stay\nIn each of these stages, you have an opportunity to provide excellent customer service, delighting your guest.\n\nDuring the pre-arrival stage, the guest is choosing the hotel and makes their reservation. Here you want to provide valuable information to the guest, convincing them that staying with you is the best decision. Ensure the reservation process is easy. When the guest arrives, the front office staff will check them in and ensure they get to their room smoothly. If you're familiar with the service blueprint, this is where so many of them focus because the arrival stage is both an easy time to delight a guest and an easy time to disappoint them. Removing service failure points in this stage is essential.\nWhen a guest is staying with you that’s the occupancy part of the guest life cycle. Here the guest is physically on your property. They may make guest requests, but they may not. They may post charges to their room (telephone, internet, etc.) or take advantage of your facilities.\nFinally, the guest will check out. As they depart your hotel the experience should be smooth and very easy. The front desk should collect guest feedback and use that to improve operations. Once the guest has left there is an opportunity to stay in touch, hoping to entice the guest to come back, give referrals, or perhaps even buy something from the gift shop. There is a lot of opportunity here for earning additional revenue. Mapping out the guest life cycle as we have can seem rather self-evident. It’s not a trite exercise, however, as the next step is to detail each and every action a guest has to take (and that your staff have to take) during each stage.\nOnce you have a list you can eliminate failure points and add in activities that should be happening. As you fill in these gaps you increase your own revenue by doing a better job and additionally provide superior levels of guest satisfaction. If something is notably difficult for a guest – say using your booking engine – then take the time to simplify the process.\nThe guest life cycle is a powerful model which is why it’s so commonly used in hospitality management."
   },
-  "Identify fire prevention strategies": {},
   "Identify food and beverage requirements": {
     "Answer:": "Standards must comply with ISO, FDA, USDA, or any other regulatory health and safety guideline. Food and beverage vendors cannot sell product without an approved license."
   },
@@ -3860,14 +3827,12 @@
   "Identify food-safety warning signs observable during the serving process": {
     "Answer:": "Usually indicated by large signs around areas of need, common signs may include: \n• Hair nets must be worn in this area\n• Raw food ONLY sign \n• Food may contain dairy/soy/shellfish/peanut/egg signs \n• Notice food handling rules sign (e.g. no jewelry, piercings, etc.)"
   },
-  "Identify food-safety warning signs observable during the storing process": {},
   "Identify guest room/public area maintenance needs": {
     "Answer:": "Associated with guest safety and care in terms of security, cleanliness and hygiene practices, accessibility, and overall convenience. Some needs may include: \n• Fire and emergency exits are readily visible and accessible\n• Public area security cameras are active at all times\n• Lobby floors are mopped daily \n• Daily cleanliness inspections and procedures by caretaking"
   },
   "Identify hang-tag needs": {
     "Answer:": "Hang Tags are a marketing staple that when used correctly can help increase sales. Detailed hang tags that represent your brand’s message are vital to product merchandising and should fuse cohesively with your marketing plan. Hang tags can say a lot about your brand and greatly influence your customer’s purchasing decisions.\nStrategically placed tags with relevant information can encourage a shopper who’s unsure about a particular item to make the purchase. Well-designed, custom hang tags should stand out on your products and attract as well as inform your customers. If your tags seem cheap, this may inadvertently convey to customers that your products are substandard and your brand image could be ruined. Superior marketing hinges on a design that differentiates your brand from other similar brands on the market.\n\nThey include:\n• Care and pricing information to make your brand feel more transparent.\n• Background information about your brand to get your customers personally invested in your unique story and products.\n• A materials list, especially if you use eco-friendly materials that appeal to environmentally conscious shoppers.\n• Background information on a product’s origins, especially locally made items for consumers who enjoy supporting their\ncommunity.\n• One-of-kind details for unique items for those who don't want mass-produced merchandise.\n• Promotional data to plug your brand’s website and/or social media channels.\n• Distinctive logos that make your products stand out and help customers immediately identify your brand."
   },
-  "Identify hazardous chemicals/waste": {},
   "Identify health and safety requirements": {
     "Answer:": "Varies depending on the industry or type of work, or when dealing with consumers vs employees. However, all workers have the right to refuse work they feel is unsafe or do not feel comfortable with."
   },
@@ -3886,7 +3851,6 @@
   "Identify issues and trends in travel and tourism": {
     "Answer:": "Trends: \n• Travelling alone\n• Blend of business and leisure travel (travelling for work is becoming more prevalent) \n• Sustainable or \"green\" travel \n• Virtual reality \n• \"Local\" culture (not just visiting new locations, but rather integrating guests into the local traditions) \n• Healthy and organic food \n\nThe primary issue discussed in travel and tourism today is sustainability. As guest experience companies are expanding, many need to consume more resources to execute their plans. Those that can find a balance between promoting their unique guest services and sustainable practices will go far."
   },
-  "Identify key travel destinations": {},
   "Identify local attractions/events": {
     "Answer:": "Sometimes referred to as \"gems\" of specified locations; may not be advertised as much as large-scale events. These local attractions may include: \n• Heritage attractions (historical, environmental, etc.)\n• Local fairs and festivals \n• Local farmers/street markets (particularly pop-ups or seasonal) \n• Recreation (marinas, skiing facilities, mini-golf, etc.)"
   },
@@ -3917,8 +3881,6 @@
   "Identify opportunities to “green” the workplace": {
     "Answer:": "• Implement a collaborative recycling program \n• Find ways to conserve energy in the office\n• Promote paperless work \n• Deal with green vendors \n• Encourage sustainable transportation (could be implemented into employee benefits to further push the idea)"
   },
-  "Identify performance/productivity standards for lodging facilities": {},
-  "Identify personal health conditions that affect food safety": {},
   "Identify physical hazards": {
     "Answer:": "Hazards that can cause physical harm to the body: \n• Heat\n• Electricity\n• Exposure to falls/slips\n• Improper ergonomics"
   },
@@ -3928,7 +3890,6 @@
   "Identify potential security issues (continued)": {
     "Answer:": "The main functions of the security department are to protect customers and staff as well as the company’s property. The security department is also responsible for securing the physical premises against unauthorized intrusion. A business may need to secure: the building, physical assets, cash, inventory, and information (employee, financial, intellectual property), and can use staff, electronic equipment or encryption to protect people, assets and information.\n\nInstall Advanced Surveillance Technology\nThe current technology available offers several types of surveillance systems, from face-recognition devices to motion detectors to anti-tampering systems. You want to offer as much protection as you can without being intrusive to guests or making employees' jobs difficult. Businesses must protect their information from parties outside the business (hackers, infiltrators) and also protect their information from inappropriately leaving the business (employee carelessness and theft). Control the flow of electronic data by using firewalls, virus protection, passwords, encryption, frequent backups, IP security for data in transit, secure wireless transmissions, and limit the rights of recipients to copy/resend. All the company’s financial information must be secured and not breached. This includes amounts of money as well as lists of people (customers, payables, shareholders) and things (assets, bank accounts, assets)."
   },
-  "Identify potential workplace violence conditions": {},
   "Identify potentially hazardous foods (PHF)": {
     "Answer:": "Any foods that consist of any portion of dairy, poultry, eggs, meat, rice, fish, shellfish, raw-seed sprouts, vegetables and any ingredients with the ability to support rapid growth of microorganisms."
   },
@@ -3944,8 +3905,6 @@
   "Identify professional association opportunities for management professionals (e.g., educational opportunities,": {
     "Answer:": "networking, conferences, newsletters, publications)"
   },
-  "Identify professional association opportunities in business information management": {},
-  "Identify professional certification requirements available for professional salespeople": {},
   "Identify project benefits and costs.": {
     "Answer:": "• Do costs outweigh benefit derived from it, i.e. is an increase in revenue greater than the increase in costs\n• Typical benefits: cost saving, better training, more flexibility, better quality, better performance, more efficiencies, better\nmotivation/morale, reduced redundancies, better communication and teamwork, reduced risks\n• Take into account non-financial benefits (greater customer service, better reputation, etc.) and costs (opportunity cost, etc.)"
   },
@@ -3958,7 +3917,6 @@
   "Identify requirements for international business travel (e.g., passport, visa, proof of citizenship, immunizations, and sponsorship letters)": {
     "Answer:": "Requirements differ for each country, so ensure to approach with cultural sensitivity when discussing this idea. There is not one set of requirements for all international business travel. Countries like China require a Visa in addition to a simple passport and others."
   },
-  "Identify requirements for professional certifications in marketing communications": {},
   "Identify requirements for transporting cash": {
     "Answer:": "Several methods can be used; largely popular is simply bank-to-bank transfers across international borders. Be aware that conversions must be weighed when considering the value of the cash transferred. A thousand Canadian dollars is not worth the same amount once any border is crossed."
   },
@@ -3968,11 +3926,9 @@
   "Identify resources needed for the project": {
     "Answer:": "When you start your project you need to consider what resources are required to get it done. It’s always best to ask for the things you need at the beginning, rather than getting stuck halfway through because you haven't planned it out, and having to ask them for additional resources. Projects can’t start without: \n\n• People: Human resources are required to get the project done. Even if it’s just you. Normally a project team is a group of\npeople and you won't be working alone.\n• Capital: Your project needs money because it will need to pay for things, even if that is only your salary\n• Material Goods: Projects also use up assets. Assets, or goods, vary from project to project but it’s highly likely that your\nproject will need some kind of tangible resource. It’s normally what you use the project budget to buy.\nResources of all types are important to get your project off the ground and successfully moving in the right direction. The more effort put into thinking through the types of project resources you need and requesting them far enough in advance to ensure that they are ready for you when you need them, the easier it will be for you to complete your project on time, on budget and to the required specifications."
   },
-  "Identify restaurants' hazardous chemicals/waste": {},
   "Identify risks associated with obtaining business credit": {
     "Answer:": "Business credit is an estimation of a business's financial ability to repay a loan similar to personal credit. This may be linked to the type of loan a business can apply for, whether it be a term loan, vendor credit, etc. Some businesses may also apply for a line-of-credit, and enable the use of company credit cards. However, some risks associated with this may be: \n• Higher interest for business credit\n• Stricter penalties\n• Changes in terms of an agreement are more impactful\n• Liability for employee decisions"
   },
-  "Identify risks to successful event execution": {},
   "Identify routine activities for maintaining business facilities and equipment": {
     "Answer:": "• Better organization of merchandise for the customers to purchase.\n• Assigning responsibility for cleaning and restocking merchandise areas.\n• Management supervision to ensure ongoing maintenance of the area.\n• Asking for customer feedback on service levels provided"
   },
@@ -3988,7 +3944,6 @@
   "Identify sources of error in a research project (e.g., response errors, interviewer errors, non-response errors, sample\n": {
     "Answer:": "design)"
   },
-  "Identify sources that provide input into tourism": {},
   "Identify sources that provide relevant, valid written material": {
     "Answer:": "Sources for written material may be obtained internally or externally. Internal sources include company data such as monthly sales records, internal policies, interviews with employees, etc. External sources include customer feedback, trade magazines, the government, etc.:\n• Local newspapers will provide construction information and updates\n• Coupons can be provided in the temporary location, through newspapers, local coupon clipper magazines, flyers\n• In-store flyers to provide details of construction updates\n• Mobile sign outside the main location to provide the address of a new temporary location\n• Mobile sign outside new location making people aware of its existence, specials"
   },
@@ -4001,28 +3956,21 @@
   "Identify supply chain process improvement opportunities": {
     "Answer:": "• Increase efficiency associated with supply chain visibility (e.g. new inventory management strategies, new software)\n• Work with suppliers to build a strong professional relationship \n• Automate wherever realistic and efficient \n• Consult/recruit supply chain experts\n• Go green; look for ways to establish sustainable processes \n• Look for optimization opportunities regularly (times change quickly!!)"
   },
-  "Identify sustainability factors affecting the purchase of food and nonfood products": {},
-  "Identify sustainability opportunities": {},
-  "Identify tax issues for clients": {},
   "Identify techniques that can be used to capture and transfer knowledge in an organization": {
     "Answer:": "Crucial in any organization. Tacit knowledge is invaluable, be sure to capture it at any point possible and effectively pass it on to ensure consistent learning. Here are some strategies: \n• Mentorship\n• Simulation training\n• Work shadowing \n• Community of practice (mix people in different areas of a company to gain a wide perspective) \n• Always conduct exit interviews when the opportunity presents itself"
   },
-  "Identify techniques to increase ad response time": {},
   "Identify temperature danger zone (TDZ) foods": {
     "Answer:": "The temperature danger zone ranges between 4-60 degrees Celcius and is the interval where foodborne bacteria can multiply the fastest. These foods range from poultry, meats, and dairy products to fresh produce and any leftover dishes."
   },
-  "Identify tentative occupational interest": {},
   "Identify the basic torts relating to business enterprises": {
     "Answer:": "Torts are intentionally or unintentionally committed wrongful acts that result in the injury of another party. Business torts specifically refer to civil wrongs committed by or against an organization. This may include breach of intellectual property, unethical behaviour towards or from clients, and more. Basic torts may include: \n\n• Tortious Interference occurs when a third-party causes a contracted party to intentionally breach an agreement. \n• Restraint of trade refers to the meddling with a business' ability to freely run operations and make sales. \n• Injurious falsehoods are deliberately false statements made with the intention to damage another business's reputation. \n• Unfair competition results when two businesses have unequal terms of either favourable or unfavourable conditions in the same market. These conditions apply to some competitors, but not all, making it unfair."
   },
-  "Identify the business process problem/issue": {},
   "Identify the effects of global trade on retailing": {
     "Answer:": "Global trade in simple terms refers to the exchange of goods and services over international borders. Impacting retailing, global trade allows for higher levels of direct foreign investments into many markets, increases cultural awareness, and can greatly boost other industries such as the hospitality and tourism industry. For the consumer, global trade is great because bigger borders mean more competitors, and more competitors mean a cheaper product available to the customer due to its vast supply."
   },
   "Identify the elements of the promotional mix": {
     "Answer:": "The combination of personal selling, advertising, sales promotion, direct marketing and public relations make up the promotional mix. Each plays a vital role in promoting businesses and their products.\n\n• Personal Selling – Personal selling requires that a company employ sales representatives who generate and maintain direct contact with prospects and customers. It is one of the costliest forms of promotion. Direct contact can take the form of personal meetings, telemarketing, email contact and correspondence.\n\n• Advertising – is a form of non-personal promotion. Companies pay to promote ideas, goods or services in a variety of media outlets. Advertising can be found everywhere from magazines, newspapers, televisions and websites to gymnasiums and city buses. With advertising, a company engages in one-way communication with the prospect or customer.\n\n• Sales promotion – represents all marketing activities – other than personal selling, advertising and public relations that are used to stimulate purchasing and sales. The objectives of sales promotions are to increase sales, inform potential customers about new products and create a positive business or corporate image.\n\n• Direct marketing – advertising directed to a target group of prospects and customers rather than to a mass audience. The two forms of direct marketing are printed direct mail, which is information sent via regular mail to a home or business and electronic direct mail. The goals of direct marketing are to generate sales or leads for sales representatives to pursue. Generally, direct marketing generates a response from the targeted customer i.e. special offer coupon. Direct marketing gives recipients an incentive to respond.\n\nPublic Relations and Publicity\n• Public Relations (PR) – activities enable an organization to influence a target audience. Often public relations campaigns try to create a favourable image for a company, its products, or its policies. However, companies can rely on public relations strategies and techniques for many reasons. One of the goals of a public relations program is to cultivate media relations with reporters who cover a specific industry. One of the most important media tools is the news release. A news release is an announcement that is sent to the appropriate media outlets.\n\n• Publicity involves bringing news or newsworthy information about an organization to the public’s attention. This process is known as placement. The main function of publicity is to develop a positive perception or awareness of the organization in the marketplace. The right kind of publicity can create and maintain a company’s image; negative publicity can devastate it. People like to do business with respectable companies. Placement of publicity is free. A news story on the evening news is free while advertising can cost thousands of dollars. News reporters are usually viewed as more objective than advertisers. The disadvantage is that you cannot control the content of publicity."
   },
-  "Identify the factors that contribute to operational risk (e.g., insufficient training, lack of supervision, inadequate security, poor system design, poor HR policies)": {},
   "Identify the factors that impact governance structures": {
     "Answer:": "Governance structures discuss the framework of project management dealing with rules, procedures, and role/responsibility division. Factors affecting how this structure looks may include budget, company values, organizational structure, leadership styles, and overall need of participation."
   },
@@ -4044,29 +3992,15 @@
   "Identify transactional data through electronic means (e.g., bar coding, optical scanners, automatic replenishment systems, electronic data interchange [EDI], and reader-sorters). ": {
     "Answer:": "Transactional data through electronic means refers to the collection and processing of data using various electronic devices and systems. This can include bar coding, optical scanners, automatic replenishment systems, electronic data interchange (EDI), and reader-sorters. These technologies allow for the efficient and accurate tracking of inventory and sales, as well as the automation of many business processes. Bar coding and optical scanners are used to scan product codes and capture data at the point of sale. Automatic replenishment systems use real-time data to automatically order new products when stock levels are low. EDI allows for the electronic exchange of business documents between different organizations. Reader-sorters are used to automatically sort and track mail and packages."
   },
-  "Identify transportation requirements.": {},
   "": {
     "Answer:": "Isolating and identifying the source of a technical problem involves identifying the root cause of a technical issue by troubleshooting and testing different components or systems."
   },
-  "Identify transportation/travel modes used in travel and tourism.": {},
-  "Identify travel and tour plan options.": {},
-  "Identify trends in the social-media space.": {},
   "Identify types of currency (paper money, coins, banknotes, government bonds, treasury notes, etc.). \n": {
     "Answer:": "Currency is a system of money (monetary units) in common use, especially in a nation. Under this definition, British pounds, U.S. dollars, and European Euros are examples of currency. These various currencies are stores of value, and are traded between nations in foreign exchange markets, which determine the relative values of the different currencies. Currencies in this sense are defined by governments, and each type has limited boundaries of acceptance."
   },
-  "Identify types of data analysis modeling techniques.": {},
-  "Identify types of drawing media.": {},
-  "Identify types of food service in different segments of the culinary and foodservice operations industry.": {},
-  "Identify types of fungi.": {},
-  "Identify types of harmful bacteria.": {},
-  "Identify types of modeling techniques.": {},
   "Identify types of parasites.": {
     "Answer:": "Types of parasites include protozoa, helminths, and ectoparasites."
   },
-  "Identify types of public-relations activities.": {},
-  "Identify types of toxins.": {},
-  "Identify types of viruses.": {},
-  "Identify waste management opportunities.": {},
   "Identify waste management opportunities at restaurant.": {
     "Answer:": "Waste management opportunities at restaurants include composting food waste, recycling used cooking oil, using reusable dishes and utensils, and reducing packaging waste."
   },
@@ -4085,8 +4019,6 @@
   "Identify ways to track marketing-communications activities.": {
     "Answer:": "Tracking and measuring marketing-communications are done through several common key performance indicators (KPIs). Here\nare some examples:\nSales Revenue: How much revenue has your marketing campaign brought your company? Understanding your sales revenue is important to know how effective your marketing campaign is, no company wants to spend money on something that isn't\ngenerating money.\nCost Per Lead: How much is it costing you to acquire a customer through marketing? Relevant costs include manpower (creative and technical), technology and software, general overhead, advertising, marketing distribution. \nSocial Media Reach: Social media engagement can include anything from likes, comments, re-tweets, shares, mentions, etc.\nTraffic to Lead Ratio: Understanding your website and mobile traffic, especially knowing where your traffic is coming from, whether it's organic, direct, social media or referrals is extremely important. Is your traffic continually increasing or is it\ndropping? Is it getting you leads?"
   },
-  "Identify ways to use crowdsourcing in business.": {},
-  "Implement a communications plan.": {},
   "Implement category management process.": {
     "Answer:": "Implementing a category management process involves analyzing the category performance, identifying growth opportunities, developing a category strategy, implementing category plans and managing the category performance."
   },
@@ -4102,50 +4034,33 @@
   "Implement strategies to grow social-media following.": {
     "Answer:": "Implementing strategies to grow social-media following includes creating engaging content, using social media advertising, hosting events and giveaways, and analyzing metrics."
   },
-  "Implement supply chain management strategies.": {},
   "Implement version control.": {
     "Answer:": "Implementing version control refers to the practice of keeping track of changes made to a document, code, or project, and being able to revert to previous versions as needed."
   },
   "Initiate and facilitate social interactions in a business environment.": {
     "Answer:": "Initiating and facilitating social interactions in a business environment involves creating opportunities for employees and colleagues to interact and connect, both formally and informally. This can include team-building activities, social events, and open communication channels."
   },
-  "Initiate correspondence with customers regarding market activity.": {},
-  "Initiate project.": {},
-  "Inspect property damage.": {},
   "Inspire others.": {
     "Answer:": "People who inspire others:\n• Are authentic – don’t put on airs, are honest, have integrity, show who they really are\n• Connect with other’s dreams – listen, and help them align them with company goals\n• Notice, name and nurture abilities that others don’t see in themselves\n• Inspire with great, motivating stories\n• Create a culture of inspiration and inclusion – commit to excellence and character development\n• Empower others – provide clarity and structure, establish roles, encourage accountability\n• Keep their team cohesive\n• Expect optimal performance – shared accountability, performance depends on clear goals and timely feedback\n• Recognize the team’s efforts with compliments or even weekly discussions on what they are proud of accomplishing"
   },
-  "Integrate software applications to prepare promotional materials.": {},
-  "Integrate technology into accounting.": {},
   "Interpret a pay stub.": {
     "Answer:": "Interpreting a pay stub involves understanding the information provided on a document that shows an employee's earnings, deductions, taxes and other details related to their pay. It includes understanding the information on gross pay, net pay, taxes, deductions, benefits and other information."
   },
   "Interpret and adapt to a business’s culture.": {
     "Answer:": "Interpreting and adapting to a business's culture involves understanding and aligning with the company's values, beliefs, and customs. This includes understanding the company's communication style, decision-making process, and management structure."
   },
-  "Interpret business data correlations.": {},
   "Interpret business policies to customers/clients.": {
     "Answer:": "• Employees should be well trained on the policies and have many examples of how the policies can be interpreted. After a situation has been handled, it should be used as an example for employees for future reference.\n• Explain the new changes\n• Interpreting business policies typically involves explaining company procedures, often written in bureaucratic language, to\ncustomers who are already irritated and upset. By acknowledging their frustration and using plain and ordinary language to\ndescribe what's required from the customer to proceed, customer service representatives can diffuse a tense situation,\nmaximize the opportunity to conduct a successful transaction and provide pointers to other information, such as brochures,\nwebsite links and other phone numbers for help and support.\n• Back up the business policy by describing how it helps streamline business transactions that actually help customers in the\nlong run. Provide details about why changes to previous policies make the current policy more advantageous in terms of\nlong-term gains. Cite any laws, studies conducted, customer feedback obtained or conventional business practices that\nreinforce the implementation of the business practice.\n• Involve customers in the interpretation of any business policy. Ask for candid feedback about how the rules impact their\nbusiness. For example, record input with online surveys using free software applications such as Qualtrics, Zoomerang or\nSurveyMonkey. Publish your findings so that customers can see that you have taken their feedback seriously and intend to\nact on their suggestions.\n• Propose an implementation date that allows the customer time to adjust to your new policy and enforcement of a current\npolicy. Ensuring customer satisfaction involves validating that new mechanisms meet the needs of existing customers and\nfuture customers alike."
   },
-  "Interpret cash-flow statements.": {},
-  "Interpret correlations.": {},
-  "Interpret correlations for investment decision making.": {},
-  "Interpret data mining findings.": {},
-  "Interpret descriptive statistics for business decision making.": {},
-  "Interpret descriptive statistics for investment decision making.": {},
-  "Interpret descriptive statistics for marketing decision making.": {},
   "Interpret financial ratios significant to investors.": {
     "Answer:": "Interpreting financial ratios significant to investors involves understanding the financial performance of a company using ratios such as price-to-earnings, return on equity and debt to equity"
   },
   "Interpret financial statements.": {
     "Answer:": "Students should be evaluated on the concepts and principles involved in financial statement analysis\n• Fundamental analysis that should be given are questions pertaining to profitability and repayment of debt\n• Basically, the income statement shows how much money the company generated (revenue), how much it spent (expenses)\nand the difference between the two (profit) over a certain time period.\n• The income statement lets investors know how well the company’s business is performing - or, basically, whether or not\nthe company is making money.\n• Cost of goods sold is the expense most directly involved in creating revenue. It represents the costs of producing or\npurchasing the goods or services sold by the company.\n• Companies with high gross margins will have a lot of money left over to spend on other business operations, such as R&D\nor marketing. So be on the lookout for downward trends in the gross margin rate over time. This is a telltale sign of future\nproblems facing the bottom line. When cost of goods sold rises rapidly, they are likely to lower gross profit margins - unless,\nof course, the company can pass these costs onto customers in the form of higher prices.\n• High operating margins can mean the company has effective control of costs, or that sales are increasing faster than operating\ncosts. Operating profit also gives investors an opportunity to do profit-margin comparisons between companies that do not\nissue a separate disclosure of their cost of goods sold figures (which are needed to do gross margin analysis).\n• Operating profit measures how much cash the business throws off, and some consider it a more reliable measure of\nprofitability since it is harder to manipulate with accounting tricks than net earnings.\n• When a company has a high profit margin, it usually means that it also has one or more advantages over its competition.\nCompanies with high net profit margins have a bigger cushion to protect themselves during the hard times. Companies with low profit margins can get wiped out in a downturn. And companies with profit margins reflecting a competitive advantage\nare able to improve their market share during the hard times - leaving them even better positioned when things improve\nagain."
   },
-  "Interpret loan terms for a client.": {},
   "Interpret others’ nonverbal cues.": {
     "Answer:": "• Nonverbal communication ranges from facial expressions and eye contact to body language, gestures, and signs and may also include use of space.\n• Interpreting others’ nonverbal cues can be thought of as listening with your eyes.\n• Nonverbal cues often tell more about the audience’s true thoughts and feelings than do their words.\n• When nonverbal cues do not match verbal communication, verbal communication is often ignored.\n• Some common interpretations of nonverbal cues are:\n• Crossed arms – closed-off or resistance.\n• Hand under chin – decisions or analysis being made.\n• Back of the neck scratch – has questions or concerns.\n• Avoidance of eye contact – discomfort.\n• It is important to be sensitive to cultural differences and aware of context in interpreting nonverbal cues so as to avoid misinterpretations."
   },
-  "Interpret qualitative research findings.": {},
-  "Interpret securities table.": {},
   "Interpret statistical findings.": {
     "Answer:": "The purpose of analysing data is to obtain usable, useful information. To do this, it is important to determine WHAT we want analysed so that the correct data is collected. To find meaning in large amounts of data, data is grouped and summarized, and/or statistically analyzed (mean, median, mode, standards of deviation, frequency distributions, t-tests, regression, ANOVA, etc.) Interpretation is the process of attaching meaning to the collected information and determining the conclusions, significance, and implications of the findings. Patterns and relationships within the data are gleaned. The same data can be interpreted in different ways so to garner other interpretations discuss the data with stakeholders and consider the data from various perspectives. Think beyond the data but don’t stray too far. Focus on outlying data or data that seems to be the exception, as surprising, contradictory or puzzling data can lead to useful insights. Limitations must be disclosed with honesty. Students will reiterate the statistics they feel are pertinent in their analysis."
   },
@@ -4161,11 +4076,9 @@
   "Interview job applicants.": {
     "Answer:": "Human resources managers are charged with recruiting appropriate candidates to fill positions within the organizations they represent. This involves writing detailed job descriptions and determining appropriate venues for advertising open positions.\nDuring the pre-hiring phase of human resources management, managers may participate in job fairs, attend professional recruiting events and visit college job placement offices. Once suitable candidates are identified, human resources managers\ninterview applicants, conduct background checks, administer pre-employment tests and make hiring recommendations.\n\nPlan the selection process The first step in the selection process is to review the information (resume, application form) provided by all job applicants to determine which applicants meet or exceed the minimum qualifications as stated in the job\nposting. These are then assessed to decide which ones will be short-listed for a job interview. \n\nWorking with a selection panel Engaging other people in a selection process can be very helpful. You may want to include a senior staff member, a board member and a potential co-worker, for example. Their contribution can include: Helping to\ndevelop selection criteria, Screening resumes, Preparing interview questions, participating in interviews, Assessing each candidate against the selection criteria, Providing input about the final selection \n\nPrepare for the interviews Prepare a list of questions to ask during the interview Develop key questions to explore past job performance, covering all essential functions. Also, prepare follow-up questions. Use a variety of approaches to get different\nkinds of information, tailoring questions to open up a topic for conversation or to confirm information. \n\nConduct the interviews Choose an appropriate environment for the interviews and ensure that you will not be interrupted. Make sure you use the same interview format and setting for every candidate, and that interview appointments are the same\nlength. Ideally, you should talk no more than 20% of the time. Use follow-up questions to have the candidate expand on their answers. Comment on what the candidate says to let them know you are interested and to encourage discussion.\n\nCheck the references of your final candidates Reference checks are a last opportunity to verify information the candidate has provided, validate their personal suitability and explore any areas of concern. Talk to references before you make an offer.\nLet the candidate know you will be doing this. Prepare a list of questions for. Ask about information on the candidate's resume and about topics discussed during the interview. Ask for insights into the candidate's character, examples of good work they\nhave done and areas that need development. If you keep the conversation casual but professional, you are likely to get more information."
   },
-  "Investigate suspected insurance fraud.": {},
   "Investigate ways that a negative credit report can affect a consumer’s financial options.": {
     "Answer:": "A low credit score, or negative credit report, will be due to problems paying when money is due. It could be due to a pattern of missed payments, chronically late payments, bankruptcy, foreclosures, repossessions, long overdue balances, etc.  Lenders know that the best predictor of future behaviour is past behaviour; the assumption is that if a person did not pay their debts in the past, they will not pay in the future (which may not necessarily be the case). \nPeople with low credit ratings are more likely to:\n• Be denied loans, mortgages and other contracted borrowing because they are a non-payment risk.  • Have higher interest rates than a person with a higher score \n• Be required to have a bigger share of the cost of the item (e.g., house downpayment) \n• Have difficulty renting a place to live \n• Not get security clearance at a job \n• Be charged higher insurance premiums \n• Have to buy their cell phone because they don’t qualify for a contract \n• Cause stress in close relationships \nWith a limited capacity to borrow, or a high interest cost to borrow, people may not be able to acquire the things they want when they want."
   },
-  "Isolate and identify source of technical problem.": {},
   "Journalize and post adjusting entries.": {
     "Answer:": "Journalizing and posting adjusting entries involves recording financial transactions in a company's general ledger and making necessary adjustments to the accounts to ensure they are accurate and up to date."
   },
@@ -4406,12 +4319,9 @@
   "Measure corporate social responsibility impact.": {
     "Answer:": "Measuring corporate social responsibility impact refers to the task of evaluating the positive and negative effects of a company's operations and activities on society and the environment, and determining ways to improve the company's social and environmental performance."
   },
-  "Measure market size and composition.": {},
   "Measure media audience.": {
     "Answer:": "• Refers to measuring how many people are in an audience \n• Could relate to radio listenership, television viewership, newspaper/magazine readership, or website traffic. • Website traffic can be measured using software \n• Many companies offer tracking software that can be as simple as counters that record the number of times a site is viewed, to more sophisticated tracking software that can track the habits of specific users."
   },
-  "Measure response rates.": {},
-  "Mine data in human resource information system.": {},
   "Mine data in learning management systems.": {
     "Answer:": "Mining data in learning management systems refers to the task of using software to extract data from learning management systems (LMS), such as student performance data, attendance records, and course completion statistics, in order to make informed decisions about teaching and learning."
   },
@@ -4421,7 +4331,6 @@
   "Mine databases for information useful in marketing communications.": {
     "Answer:": "Data mining involves the extraction of implicit and useful information from databases. Data mining can predict consumer behavior, the psychology of the consumer behavior while shopping, influence of business environment on consumers and consumer motivation depending on the importance of the product. The products sold to consumers provide data on items how they are positioned. Data mining analyzes consumption patterns, and the association between one product and another."
   },
-  "Mix cleaning/sanitation solutions.": {},
   "Model ethical behavior.": {
     "Answer:": "Generally speaking, employees know that they should never do certain things at work. Not every situation is so clear-cut, however, which is why it's important for employers to implement ethical codes of conduct. Although not all-inclusive, these codes will guide employees through the many \"gray areas\" of working life as they come up. The result is a consistent promotion of accountability, honesty, integrity and open communication, which are the key values of a healthy workplace. \nAccountability and Follow-up: A healthy workplace culture sets codes and standards for acceptable behavior, which managers reinforce through all levels of the organization. For new hires, the first exposure to the company's core values might come at orientation. To ensure that employees connect words and deeds, proactive companies implement follow-up procedures -- such as codes of conduct -- that outline the consequences for any violations. Managers should train employees to report unethical behavior, and follow up promptly when complaints surface. \nFair Allocation of Resources: Companies need to establish a link between ethical behavior and appropriate use of resources. Executive leaders have five key resources at their disposal: capital assets, information, money, people and time. Depending on how managers allocate these resources, different perceptions of equity and fairness may arise. Managers who make a point of trying to distribute all resources fairly are more likely to inspire appropriate ethical behavior among employees than those who pay lip service to the concept. \nOpen Communication: In a model ethical culture, managers expect employees to put what's right above their own interests and promote an atmosphere that encourages tolerance for people's views. The organization places a premium on open communication to accomplish its goals. Companies also emphasize that any self-serving actions -- such as intimidating\nemployees from reporting ethical lapses to management -- won't be accepted. Failure to check these tendencies creates a  divisive atmosphere that destroys trust and internal relationships. \nProtecting Company Assets: An ethical workplace encourages employees to take a consistent line on protecting company  assets, whether it's office supplies or an expense account that you're supposed to fill out honestly. When you see unethical  actions, such as supply thefts, you feel empowered to report them -- because such behavior isn't tolerated. Rather than writing  off such lapses as the cost of doing business, your employer shows that everyone will be held to the same standard. Respecting Company Time:Respect is a two-way street, particularly when it comes to your employer's time. You shouldn't  need a reminder that any personal Internet surfing at work is an ethics violation. Most employers have some type of policy to  prevent an addiction to gambling, news or social networking sites from disrupting the workplace. You also accept that  updating personal blogs, websites and social media accounts isn't sanctioned, unless it relates to your job."
   },
@@ -4785,21 +4694,9 @@
   "Prepare a chart of accounts.": {
     "Answer:": "A list of accounts of a business and their numbers, arranged in their order in the ledger. Assets: owned by the company, providing a future benefit; Liabilities: debt or obligation of the company; Equity: owner’s financial interest in the company; Revenue: sale of goods or services; Expenses: cost of selling goods or services"
   },
-  "Prepare a post-closing trial balance.": {},
-  "Prepare a résumé.": {},
-  "Prepare a training plan.": {},
-  "Prepare a trial balance.": {},
-  "Prepare agendas.": {},
-  "Prepare and use presentation software to aid in making oral reports.": {},
-  "Prepare and use presentation software to support reports.": {},
-  "Prepare and/or assemble sales materials.": {},
-  "Prepare bank account documents (e.g., checks, deposit/withdrawal slips, endorsements, etc.).": {},
-  "Prepare cash drawers/banks.": {},
-  "Prepare cash flow budgets/forecasts.": {},
   "Prepare cash flow statements.": {
     "Answer:": "• Calculate the amount of cash in, cash out and balance based on the transactions provided \n• Values listed in the judge’s instructions"
   },
-  "Prepare company correspondence.": {},
   "Prepare complex written reports.": {
     "Answer:": "This task involves writing detailed and comprehensive reports on various topics, which may be technical in nature."
   },
@@ -4836,20 +4733,9 @@
   "Prepare sales kit.": {
     "Answer:": "This task involves creating a package of materials that can be used to promote a product or service."
   },
-  "Prepare sales presentation.": {},
-  "Prepare sales reports.": {},
-  "Prepare simple written reports.": {},
-  "Prepare store/department for special event.": {},
-  "Prepare tax returns for clients (i.e., individuals and business).": {},
-  "Prepare work breakdown structure (WBS).": {},
-  "Prepare worksheets.": {},
-  "Prepare written reports for decision-making.": {},
-  "Prepare written reports for hospitality and tourism decision-making.": {},
   "Present an advertising campaign to clients.": {
     "Answer:": "An advertising pitch describes the proposals of an advertising agency to promote a product or service. The pitch states the objectives for the campaign and describes how the campaign will deliver its intended results. Companies request advertising pitches so that they can select the most suitable proposal from a number of advertising agencies. A successful pitch should demonstrate that an agency can use the marketing budget effectively to create greater value for a brand. \n• Arrange a meeting to make your pitch. Bring any other members of your team to the meeting so that the client company knows who will be working on its account if your pitch is successful. Ask the client to ensure that everyone involved in the selection decision will be present at the meeting. Bring any essential equipment, such as a laptop, projector or flip chart, to the meeting. \n• Thank the client for the opportunity to pitch and introduce your team. Describe your credentials and state why your firm can meet the campaign requirements. State the objectives for the advertising campaign and explain how you will measure results against the objectives. If the objective is to generate quality leads for the sales force, state your target for number of leads. \n•Profile the target market for the advertising campaign and present any market research that you have carried out. Describe the target audience and detail their product preferences. Explain how your advertising messages align with the product factors the audience rates as important. Show how your messages differentiate the client's product from those of competitors.\n• Present the creative proposals for the campaign. Show press advertisement proposals in-situ in a mocked-up newspaper or magazine to demonstrate impact. Make a test video of a television or cinema commercial, rather than presenting the proposal on a two-dimensional storyboard. Present any available results you have obtained from concept research. Advertising researchers monitor response to different concepts, helping to validate proposals,. Present the media proposals for the campaign, explaining why the selected media represent the most cost-effective strategy for reaching the target audience. \n• Provide the client with a proposed budget for the campaign, including creative, media and production costs. Where possible, compare the campaign costs with the forecast results to demonstrate value for money and return on investment. Go through the campaign schedule, setting out key dates for detailed creative proposals, client approvals and publication. Restate the key measurements for the campaign. \n• Summarize the key points of your pitch and state why you believe your pitch will help the client's team meet its marketing objectives. Invite questions from the client team. Thank the client team members for their time and ask when they will make their decision on the winning pitch."
   },
-  "Present findings orally.": {},
-  "Present hospitality and tourism findings orally.": {},
   "Present proposal.": {
     "Answer:": "This task involves making a formal presentation of a plan or idea to a group or organization."
   },
@@ -4868,67 +4754,27 @@
   "Process accounts receivable (e.g., post to ledger, process payment, process uncollectible account, etc.).": {
     "Answer:": "• Sales invoices are generated by the sales department directly into the computer system by filling in all the required information: invoice date and number, the buyer’s contact information, terms, items, quantity, prices and extensions. • The A/R clerk will be responsible for printing out an aged receivables to regularly examine overdue accounts and follow up with the buyer, first with a phone call, then email, then by letter. \n• Delinquent accounts can be sold to collection companies, have legal proceedings started to collect, or be written off."
   },
-  "Process advance deposits.": {},
-  "Process an insurance claim.": {},
   "Process and settle securities transactions in accordance with transaction instructions.": {
     "Answer:": "Processing and settling securities transactions in accordance with transaction instructions is a task that involves executing securities transactions such as buying and selling stocks, bonds, and other securities on behalf of clients or the organization. It involves ensuring that the transactions are in compliance with the instructions provided by the client or the organization, as well as any regulatory requirements."
   },
-  "Process complimentary offers and coupons/discounts.": {},
-  "Process customer orders.": {},
-  "Process customer returns.": {},
-  "Process customer/guest orders.": {},
   "Process damaged and/or mutilated currency and coin.": {
     "Answer:": "This task may involve determining the value of the damaged notes and coins, and recording the transactions in the accounting system. It may also involve physically repairing or preparing the currency and coin for re-circulation. This task is important to maintain the integrity of the currency system as well as to ensure that the damaged currency and coin are properly handled and not being used as counterfeit."
   },
-  "Process deliveries.": {},
-  "Process front-desk transactions (e.g., check cashing, valet parking, call routing, requests).": {},
-  "Process guest departures.": {},
-  "Process guest room changes.": {},
-  "Process immigration-related records.": {},
-  "Process incoming merchandise.": {},
-  "Process insurance documentation.": {},
-  "Process inventory adjustments (e.g., shrinkage, obsolescence, returns, etc.).": {},
-  "Process maintenance request.": {},
   "Process OSHA documentation.": {
     "Answer:": "Processing OSHA documentation is a task that involves collecting, organizing, and maintaining records and reports related to the Occupational Safety and Health Administration (OSHA)."
   },
-  "Process payroll payments and remittances (e.g., employees, benefits, taxes).": {},
-  "Process preliminary budget detail.": {},
-  "Process refunds.": {},
-  "Process retail sales documentation.": {},
-  "Process retail telephone orders.": {},
-  "Process returned/damaged product.": {},
   "Process returns/exchanges.": {
     "Answer:": "How returns and exchanges are processed currently, and what changes should/ could be implemented needs to be addressed. The current process gives the customer a return shipping label automatically and without question. The problems with this are inherent and obvious in the ease this gives the customer in fraudulently ordering items just to reach the $25 limit. However changes have to help to limit the irritation level for the customer without losing the customer altogether. What records are kept on which, or how many, customers are returning partial orders regularly? Is it widespread, or select few customers? Do we have stats on how many customers in total, or on specific customers who are repeat offenders?"
   },
-  "Process sales documentation.": {},
-  "Process sales transactions (e.g., cash, credit, check).": {},
-  "Process special orders.": {},
-  "Process special orders for retail sales.": {},
-  "Process special orders in hospitality and tourism.": {},
-  "Process telephone orders.": {},
-  "Process telephone orders in hospitality and tourism.": {},
-  "Process transactions in negotiable monetary instruments (e.g., money orders, travelers checks, cashier checks, bearer bonds).": {},
-  "Produce daily reports.": {},
-  "Project future revenues and expenses.": {},
-  "Promote participant packages.": {},
-  "Proof ads.": {},
-  "Proofread documents.": {},
   "Propose community issues for company involvement.": {
     "Answer:": "The participant may discuss a variety of possible issues for Venture to involve itself in. There should be a clear rationale for the issues recommended. For example, if local families were affected, they may want to look at local issues. The participant should demonstrate logic and creativity in his/her suggestions."
   },
-  "Propose individual/group itineraries.": {},
-  "Propose solution to prospect’s needs/challenges (sales talk, sales proposal presentation).": {},
-  "Propose tourism experiences.": {},
-  "Prospect for customers.": {},
   "Protect against identify theft.": {
     "Answer:": "Measures must be in place to limit access to card information – passwords, limited access, logins, firewalls, tracking of access, POS – well secured to prevent unauthorized access.\nTraining of workers is most important – an understanding of their role in handling of credit/debit cards is vital. Adherence to all legal requirements with respect to data management. \nParticipant could mention any of the above information as it relates to this case."
   },
   "Protect company information and intangibles.": {
     "Answer:": "Company information and intangibles includes computer data and intellectual property (company secrets). • Firewall Software - Firewalls are used to block and prevent unauthorized access to computer files. Firewalls prevent unwanted visitors from entering a computer system to use files, gain personal information or destroy computer data. A good firewall should be part of a company’s computer system. \n• Allow employees access to information which is job related only – block everything else. Any file that contains a credit card or client number, for instance, can be automatically tagged with restrictions that encrypt it when it's put on a USB drive. Or, if that same information is shared within a company, the applicable rules might prevent those who see it from cutting and pasting any of the names and addresses. \n• Monitor data as it flows in and out of networks--including through USB ports, e-mail, file transfer protocol and Web browsers. Also monitor data leaving a company's network, blocking the movement of sensitive data or encrypting it. • Install software that classifies data by modeling their movement and watching for anomalies that might be signs of penetration or insider misbehaviour. \n• Simple and effective internal threat management procedures can help prevent employee information leaks from happening to the bank. This will protect the company’s most confidential and valuable information from being exposed to unauthorized parties \n• Be aware of where critical corporate data is located and who has access to the data \n• Develop an acceptable use policy for all employees that outlines appropriate use of corporate assets, information and intangible assets. This policy should outline company procedures when a violation takes place \n• Consistently enforce policies and procedures and revise as required\n• Ensure there is an internal incident response plan and that the appropriate resources are available in-house to handle information loss or access by unauthorized employees or outsiders."
   },
-  "Provide beverage service.": {},
-  "Provide first-aid.": {},
   "Provide information about incoming merchandise to sales staff.": {
     "Answer:": "Typically includes details about new products, their availability, pricing, and any promotional or sales strategies related to them."
   },
