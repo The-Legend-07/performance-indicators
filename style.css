@@ -1,0 +1,165 @@
+/* General container styles */
+body {
+    font-family: "Patrick Hand", sans-serif;
+    background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.2), rgba(0, 180, 255, 0.5) 30%, rgba(255, 255, 255, 0.6) 60%, rgba(0, 180, 255, 0.5) 90%, rgba(0, 180, 255, 0.2));
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    animation: pulseBackground 30s ease-in-out infinite;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+@keyframes pulseBackground {
+    0% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.2), rgba(0, 180, 255, 0.5) 30%, rgba(255, 255, 255, 0.6) 60%, rgba(0, 180, 255, 0.5) 90%, rgba(0, 180, 255, 0.2));
+    }
+    10% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.25), rgba(0, 180, 255, 0.55) 30%, rgba(255, 255, 255, 0.65) 60%, rgba(0, 180, 255, 0.55) 90%, rgba(0, 180, 255, 0.25));
+    }
+    20% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.3), rgba(0, 180, 255, 0.6) 30%, rgba(255, 255, 255, 0.7) 60%, rgba(0, 180, 255, 0.6) 90%, rgba(0, 180, 255, 0.3));
+    }
+    30% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.35), rgba(0, 180, 255, 0.65) 30%, rgba(255, 255, 255, 0.75) 60%, rgba(0, 180, 255, 0.65) 90%, rgba(0, 180, 255, 0.35));
+    }
+    40% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.4), rgba(0, 180, 255, 0.7) 30%, rgba(255, 255, 255, 0.8) 60%, rgba(0, 180, 255, 0.7) 90%, rgba(0, 180, 255, 0.4));
+    }
+    50% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.5), rgba(0, 180, 255, 0.8) 30%, rgba(255, 255, 255, 0.9) 60%, rgba(0, 180, 255, 0.8) 90%, rgba(0, 180, 255, 0.5));
+    }
+    60% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.4), rgba(0, 180, 255, 0.7) 30%, rgba(255, 255, 255, 0.8) 60%, rgba(0, 180, 255, 0.7) 90%, rgba(0, 180, 255, 0.4));
+    }
+    70% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.35), rgba(0, 180, 255, 0.65) 30%, rgba(255, 255, 255, 0.75) 60%, rgba(0, 180, 255, 0.65) 90%, rgba(0, 180, 255, 0.35));
+    }
+    80% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.3), rgba(0, 180, 255, 0.6) 30%, rgba(255, 255, 255, 0.7) 60%, rgba(0, 180, 255, 0.6) 90%, rgba(0, 180, 255, 0.3));
+    }
+    90% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.25), rgba(0, 180, 255, 0.55) 30%, rgba(255, 255, 255, 0.65) 60%, rgba(0, 180, 255, 0.55) 90%, rgba(0, 180, 255, 0.25));
+    }
+    100% {
+        background-image: conic-gradient(from 0deg, rgba(0, 180, 255, 0.2), rgba(0, 180, 255, 0.5) 30%, rgba(255, 255, 255, 0.6) 60%, rgba(0, 180, 255, 0.5) 90%, rgba(0, 180, 255, 0.2));
+    }
+}
+
+/* Rest of your styles remain unchanged */
+.container {
+    text-align: center;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 800px;
+    margin: 20px auto; /* Add margin to ensure spacing on smaller screens */
+    box-sizing: border-box; /* Account for padding in the width */
+    transition: transform 0.3s ease-in-out;
+}
+
+.container:hover {
+    transform: scale(1.02); /* Add subtle interaction effect */
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 5px;
+    color: #333; /* black */
+    letter-spacing: 1px;
+    font-weight: 600;
+    transition: transform 0.3s ease-in-out;
+}
+h1:hover {
+    transform: scale(1.03); /* Add subtle interaction effect */
+}
+
+p {
+    margin: 0 0 20px;
+    color: #666;
+    font-size: 1.1rem;
+}
+
+/* Search Bar Styles */
+.search-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease-in-out;
+}
+.search-bar:hover {
+    transform: scale(1.01); /* Add subtle interaction effect */
+}
+
+.search-bar input {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    transition: border-color 0.3s;
+}
+
+.search-bar input:focus {
+    outline: none;
+    border-color: #000000;  /* Set border to black */
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);  /* Add subtle, darker box shadow */
+}
+
+.search-bar button {
+    background: none;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.search-bar button img {
+    width: 28px;
+    height: 28px;
+}
+
+/* Suggestions Styles */
+.suggestions {
+    text-align: left;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    max-height: 150px;
+    overflow-y: auto;
+    background: #fff;
+    font-size: 1rem;
+}
+
+.suggestions div {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #ddd;
+}
+
+.suggestions div:last-child {
+    border-bottom: none;
+}
+
+.suggestions div:hover,
+.suggestions div.highlight {
+    background-color: #f0f0f0;
+    color: #333;
+    font-weight: 500;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Answer Display */
+#answer-display {
+     font-size: 1.2rem;
+    color: #333;
+    font-weight: 500;
+    margin-top: 20px;
+    line-height: 1.3;
+}
